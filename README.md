@@ -1,1 +1,1 @@
-# Google-CodeJam-2020
+# Google-CodeJam-2020-Solutions-in-Python
